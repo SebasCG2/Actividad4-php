@@ -15,4 +15,4 @@ Pasos para su ejecución:
 5. ejemplo. 19012.1.23Nombre.php
 <br>
 <br>
-Sebastian Carmona
+Sebastian Carmona, 20003016@galileo.edu, 20003016
